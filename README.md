@@ -46,11 +46,12 @@
 
 ---
 
-### // TELEMETRY & STATS
+### // TELEMETRY & ACTIVITY GRAPH
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="MADNIKE Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADNIKE1991&theme=tokyonight&hide_border=true&v=2" alt="MADNIKE Streak" height="150" />
+  <a href="https://github.com/MADNIKE1991">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADNIKE1991&theme=tokyonight&area=true&hide_border=true" alt="MADNIKE Activity Graph" width="100%" />
+  </a>
 </p>
 
 ---
