@@ -49,8 +49,8 @@
 ### // TELEMETRY & STATS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="MADNIKE Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&theme=dark&hide_border=true" alt="MADNIKE Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="MADNIKE Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADNIKE1991&theme=tokyonight&hide_border=true&v=2" alt="MADNIKE Streak" height="150" />
 </p>
 
 ---
