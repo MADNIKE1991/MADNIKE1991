@@ -34,21 +34,23 @@
 
 ### // FEATURED MICRO-SAAS & ENGINES
 
-| ENGINE / PRODUCT | STACK | ARCHITECTURE & FUNCTION |
-| :--- | :--- | :--- |
-| **ICE STUDIO — Subtitles Engine** | Node.js, Groq, Whisper-v3, ASS | AI-генератор динамических воронка-субтитров для Shorts/Reels с акцентной типографикой |
-| **Nexus B2B Intelligence** | Chrome Ext (MV3), OpenRouter, Qwen | AI-расширение для моментального B2B-аудита сайтов, выявления уязвимостей и сбора питчей |
-| **OCR Text Recognition Engine** | Node.js, Tesseract.js, Express | Локальный сервис распознавания текста со сканов без внешней передачи данных |
-| **DOCX to PDF Bulk Engine** | Node.js, LibreOffice Headless | Пакетный локальный конвертер Word в PDF с сохранением верстки и форматирования |
-| **AI Text Sanitizer** | Chrome Ext (MV3), Vanilla JS | Микро-утилита нормализации типографики и очистки нейросетевых ответов от спецсимволов |
+| ENGINE / PRODUCT | STACK | ARCHITECTURE & FUNCTION | ACCESS / REPO |
+| :--- | :--- | :--- | :--- |
+| **ICE STUDIO Portfolio** | Next.js, React, Tailwind, Vercel | Официальная цифровая платформа-портфолио и витрина систем | [Live Site](https://icestudio-systems.vercel.app/) *(Private Repo)* |
+| **Website to PDF Converter** | Chrome Ext (MV3), JS | Расширение для мгновенного сохранения веб-страниц в чистый PDF | [Chrome Web Store](https://chromewebstore.google.com/) *(Private Repo)* |
+| **ICE STUDIO — Subtitles Engine** | Node.js, Groq, Whisper-v3, ASS | AI-генератор динамических воронка-субтитров для Shorts/Reels | Public Open Source |
+| **Nexus B2B Intelligence** | Chrome Ext (MV3), OpenRouter, Qwen | AI-расширение для аудита сайтов, сбора питчей и поиска уязвимостей | Public Open Source |
+| **OCR Text Recognition Engine** | Node.js, Tesseract.js, Express | Локальный сервис распознавания текста со сканов без отправки данных | Public Open Source |
+| **DOCX to PDF Bulk Engine** | Node.js, LibreOffice Headless | Пакетный локальный конвертер Word в PDF с сохранением верстки | Public Open Source |
+| **AI Text Sanitizer** | Chrome Ext (MV3), Vanilla JS | Микро-утилита нормализации типографики и очистки текстов от LLM | Public Open Source |
 
 ---
 
 ### // TELEMETRY & STATS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="MadNike Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="MadNike Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&hide_border=true&title_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="150" />
 </p>
 
 ---
