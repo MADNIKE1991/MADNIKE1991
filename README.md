@@ -37,7 +37,7 @@
 | ENGINE / PRODUCT | STACK | ARCHITECTURE & FUNCTION | ACCESS / REPO |
 | :--- | :--- | :--- | :--- |
 | **ICE STUDIO Portfolio** | Next.js, React, Tailwind, Vercel | Официальная цифровая платформа-портфолио и витрина систем | [Live Site](https://icestudio-systems.vercel.app/) *(Private Repo)* |
-| **Website to PDF Converter** | Chrome Ext (MV3), JS | Расширение для мгновенного сохранения веб-страниц в чистый PDF | [Chrome Web Store](https://chromewebstore.google.com/) *(Private Repo)* |
+| **Website to PDF Converter** | Chrome Ext (MV3), JS | Расширение для мгновенного сохранения веб-страниц в чистый PDF | [Chrome Web Store](https://chromewebstore.google.com/detail/website-to-pdf-save-html/hkjpcgigocegmghfganfhamdieajbali) *(Private Repo)* |
 | **ICE STUDIO — Subtitles Engine** | Node.js, Groq, Whisper-v3, ASS | AI-генератор динамических воронка-субтитров для Shorts/Reels | Public Open Source |
 | **Nexus B2B Intelligence** | Chrome Ext (MV3), OpenRouter, Qwen | AI-расширение для аудита сайтов, сбора питчей и поиска уязвимостей | Public Open Source |
 | **OCR Text Recognition Engine** | Node.js, Tesseract.js, Express | Локальный сервис распознавания текста со сканов без отправки данных | Public Open Source |
