@@ -1,6 +1,6 @@
 ﻿# ICE STUDIO // NIKITA MENSHAEV [MADNIKE]
 
-> **AI-AUGMENTED FULL-STACK DEVELOPER & INDIE HACKER**
+> **AI-AUGMENTED FULL-STACK DEVELOPER & INDIE HACKER // DJ MADNIKE**
 > *6+ Years Commercial Web Engineering | 15+ Years Sound Design & Audio Architecture*
 
 ---
@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,python,html,css,git,github,vscode,vercel,docker,figma&theme=dark" alt="Ice Studio Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,python,html,css,git,github,vscode,vercel,docker,figma&theme=dark" alt="ICE STUDIO Tech Stack" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@
 ### // TELEMETRY & STATS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="MadNike Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&hide_border=true&title_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="MADNIKE Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&theme=dark&hide_border=true" alt="MADNIKE Top Languages" height="150" />
 </p>
 
 ---
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <code>// ICE STUDIO ARCHITECTURE — SYSTEM ONLINE</code>
+  <code>// ICE STUDIO ARCHITECTURE — SYSTEM ONLINE // BUILT BY MADNIKE</code>
 </p>
