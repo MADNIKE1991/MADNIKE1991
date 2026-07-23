@@ -1,60 +1,71 @@
-﻿# ⚡ Nikita Menshaev | MadNike
+﻿# ICE STUDIO // NIKITA MENSHAEV [MADNIKE]
 
-> **AI Augmented Full-Stack Developer & Indie Hacker**
-> *6+ лет в коммерческой веб-разработке • 15+ лет в музыкальном производстве и Sound Design*
-
----
-
-### 🚀 Обо мне
-
-Проектирую и собираю высоконагруженные веб-приложения, микро-сервисы и автономные AI-инструменты. Объединяю глубокую инженерную экспертизу, современные решения на базе нейросетей и продуктовый подход для автоматизации бизнес-процессов.
-
-* 🛠 **Основной стек:** React.js, Tailwind CSS, Node.js, Express, TypeScript, Python, Chrome Extensions (Manifest V3).
-* 🤖 **AI Integration:** LLM Orchestration, OpenRouter API, Groq Cloud, Tesseract OCR, Speech-to-Text / Whisper.
-* 🎵 **Sound & Audio Engineering:** Создание звуковых движков, обработка аудиопотоков, авто-генерация динамических субтитров.
+> **AI-AUGMENTED FULL-STACK DEVELOPER & INDIE HACKER**
+> *6+ Years Commercial Web Engineering | 15+ Years Sound Design & Audio Architecture*
 
 ---
 
-### 📦 Флагманские Micro-SaaS и инструменты
-
-| Проект | Стек | Описание |
-| :--- | :--- | :--- |
-| **ICE STUDIO — Subtitles Engine** | Node.js, Groq, Whisper-large-v3, ASS | AI-генератор динамических «воронка-субтитров» для Shorts/Reels с неоновыми акцентами |
-| **Nexus B2B Intelligence** | Chrome Ext (MV3), OpenRouter, Qwen 2.5 | AI-расширение для аудита сайтов, выявления конверсионных уязвимостей и генерации питчей |
-| **OCR Text Recognition Engine** | Node.js, Tesseract.js, Express | Локальный сервисный модуль для распознавания текста со сканов без отправки данных в сеть |
-| **DOCX to PDF Bulk Engine** | Node.js, LibreOffice Headless, Express | Пакетный конвертер документов Word в PDF с сохранением верстки и форматирования |
-| **AI Text Sanitizer** | Chrome Ext (MV3), Vanilla JS | Микро-утилита для нормализации типографики и очистки текстов от нейросетей |
-
----
-
-### 🛠 Технологический степсель (Tech Stack)
-
-```text
-Frontend   : React.js | Next.js | Tailwind CSS | HTML5 / CSS3 | GSAP
-Backend    : Node.js | Express.js | REST APIs | Python | Puppeteer
-AI & ML    : OpenRouter API | Groq Cloud | Tesseract.js | Whisper API
-Extensions : Chrome Extensions API (Manifest V3)
-Tools & CI : Git | GitHub CLI | VS Code | Vercel | Docker | FFmpeg
-```
-
----
-
-### 📊 GitHub Статистика
+### // TECH STACK & SYSTEM MATRIX
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MadNike GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,js,python,html,css,git,github,vscode,vercel,docker,figma&theme=dark" alt="Ice Studio Tech Stack" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ENGINE-GROQ_WHISPER_V3-00F0FF?style=for-the-badge&labelColor=0F172A&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/ORCHESTRATION-OPENROUTER_LLM-00A3E0?style=for-the-badge&labelColor=0F172A&logoColor=00A3E0" />
+  <img src="https://img.shields.io/badge/EXTENSIONS-MANIFEST_V3-0284C7?style=for-the-badge&labelColor=0F172A&logoColor=0284C7" />
+  <img src="https://img.shields.io/badge/AUDIO_VFX-FFMPEG_CORE-0EA5E9?style=for-the-badge&labelColor=0F172A&logoColor=0EA5E9" />
 </p>
 
 ---
 
-### 📬 Связь и Контакты
+### // CORE SYSTEM PROFILE
 
-* **Сайт / Портфолио:** [icestudio-systems.vercel.app](https://icestudio-systems.vercel.app/)
-* **GitHub:** [@MADNIKE1991](https://github.com/MADNIKE1991)
+Проектирование и сборка автономных AI-инструментов, высоконагруженных веб-систем и микро-сервисов. Объединяю продуктовый инди-хакинг, обработку мультимедиа и алгоритмы нейросетей.
+
+* **Core Stack:** React.js, Tailwind CSS, Node.js, Express, TypeScript, Python, Chrome Extensions API (MV3).
+* **AI Integration:** LLM Orchestration, OpenRouter API, Groq Cloud, Tesseract OCR, Speech-to-Text / Whisper.
+* **Audio Engineering:** Sound Architecture, DSP Engines, Dynamic ASS Subtitle Rendering.
+
+---
+
+### // FEATURED MICRO-SAAS & ENGINES
+
+| ENGINE / PRODUCT | STACK | ARCHITECTURE & FUNCTION |
+| :--- | :--- | :--- |
+| **ICE STUDIO — Subtitles Engine** | Node.js, Groq, Whisper-v3, ASS | AI-генератор динамических воронка-субтитров для Shorts/Reels с акцентной типографикой |
+| **Nexus B2B Intelligence** | Chrome Ext (MV3), OpenRouter, Qwen | AI-расширение для моментального B2B-аудита сайтов, выявления уязвимостей и сбора питчей |
+| **OCR Text Recognition Engine** | Node.js, Tesseract.js, Express | Локальный сервис распознавания текста со сканов без внешней передачи данных |
+| **DOCX to PDF Bulk Engine** | Node.js, LibreOffice Headless | Пакетный локальный конвертер Word в PDF с сохранением верстки и форматирования |
+| **AI Text Sanitizer** | Chrome Ext (MV3), Vanilla JS | Микро-утилита нормализации типографики и очистки нейросетевых ответов от спецсимволов |
+
+---
+
+### // TELEMETRY & STATS
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MADNIKE1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="MadNike Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADNIKE1991&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### // ENDPOINTS & CONTACTS
+
+<p align="left">
+  <a href="https://icestudio-systems.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ICE_STUDIO_SYSTEMS-00F0FF?style=for-the-badge&labelColor=0F172A&logo=vercel&logoColor=00F0FF" />
+  </a>
+  <a href="https://github.com/MADNIKE1991" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-@MADNIKE1991-0F172A?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=00F0FF" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Сначала решай проблему. Затем пиши код."</i>
+  <code>// ICE STUDIO ARCHITECTURE — SYSTEM ONLINE</code>
 </p>
